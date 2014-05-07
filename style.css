@@ -11,10 +11,32 @@ header {
   opacity: .7;
   line-height: 4em;
   width: 100%;
-
+  position: relative;
 }
 
 #company {
   font-family: Verdana;
   font-variant: small-caps;
+  padding-left: .5em;
+}
+
+#dropdown {
+  font-family: Verdana;
+  font-variant: small-caps;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  line-height: 100%
+}
+
+#footer {
+  font-family: Verdana;
+  font-variant: small-caps;
+  padding-right: .5em;
+  float: right;
+  font-weight: bold
 }

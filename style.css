@@ -1,0 +1,20 @@
+body {
+background-image:url("Luxury-Mercer-Island-Mansion-1.jpeg");
+background-repeat:no-repeat;
+background-position:center top;
+background-size:100% 100%;
+background-attachment: fixed;
+}
+
+header {
+  background-color:#AD9970;
+  opacity: .7;
+  line-height: 4em;
+  width: 100%;
+
+}
+
+#company {
+  font-family: Verdana;
+  font-variant: small-caps;
+}
